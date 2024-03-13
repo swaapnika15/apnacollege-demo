@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is my first git Repositary.
+This is my first git Repository.
+<br>
+Author - Nika
